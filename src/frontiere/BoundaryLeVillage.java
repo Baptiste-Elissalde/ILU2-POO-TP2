@@ -57,7 +57,7 @@ public class BoundaryLeVillage {
 			}
 		} while (choixUtilisateur != 4);
 	}
-
+	
 	private void menuVoyageur(String nom) {
 		int choixUtilisateur;
 		do {
